@@ -1,4 +1,4 @@
-![Amii Open Source](https://github.com/Amii-Open-Source/.github/assets/28785031/ca80e57e-b7fa-43d8-b8c4-a0de1126753d)
+![Amii Open Source](https://github.com/Amii-Open-Source/.github/assets/28785031/fe22a2cd-f1ce-4319-89cc-ed3a9acc09b6)
 
 # About Alberta Machine Intelligence Institute (AMII)
 
