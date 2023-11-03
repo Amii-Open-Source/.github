@@ -2,15 +2,15 @@
 
 # About Alberta Machine Intelligence Institute (AMII)
 
-Welcome to the GitHub repository of the Alberta Machine Intelligence Institute (AMII)! We're thrilled to have you here and appreciate your interest in our open-source projects.
+Welcome to the GitHub repository of the Alberta Machine Intelligence Institute (Amii)! We're thrilled to have you here and appreciate your interest in our open-source projects.
 
 ## Who We Are
 
-AMII is a leading research institute in the field of machine intelligence, situated in the beautiful province of Alberta, Canada. We are committed to advancing the frontiers of artificial intelligence, machine learning, and data science through cutting-edge research, innovative projects, and a vibrant community of researchers, engineers, and enthusiasts.
+Amii is a leading research institute in the field of machine intelligence, situated in the beautiful province of Alberta, Canada. We are committed to advancing the frontiers of artificial intelligence (AI), machine learning (ML), and data science through cutting-edge research, innovative projects, and a vibrant community of researchers, engineers, and enthusiasts.
 
 ## Our Mission
 
-Our mission is to foster collaboration and knowledge-sharing in the AI and machine learning community. We aim to make AI technologies more accessible, transparent, and beneficial for everyone. Through our open-source projects, we strive to:
+Our mission is to foster collaboration and knowledge-sharing in the AI and ML community. We aim to make AI technologies more accessible, transparent, and beneficial for everyone. Through our open-source projects, we strive to:
 
 - Empower developers, researchers, and data scientists with high-quality tools and libraries.
 - Promote best practices and ethical AI development.
